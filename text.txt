@@ -28,3 +28,7 @@ branch feature
 
 
 branch feature second commit
+
+
+
+merge 4 non fastforward
